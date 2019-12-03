@@ -1,0 +1,1 @@
+python -i runInstall.py
